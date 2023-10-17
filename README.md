@@ -6,7 +6,7 @@ written in
 - golang
 - hugo
 
-hosted on AWS...
+(planning on) hosting on AWS...
 
 Future Plans:
 Thought Dump page -> Database 
